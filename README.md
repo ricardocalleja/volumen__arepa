@@ -18,3 +18,7 @@ print("Volumen de medio toroide: ", Volume/2);<br>
 
 Volumen_de_la_arepa = volume+Volume/2<br>
 print("El Volumen de la arepa es: ",Volumen_de_la_arepa, "cm3")<br>
+
+Prototipos para máquina de arepa
+
+<a href="https://spanish.alibaba.com/product-detail/new-design-automatic-arepa-making-machine-encrusting-machine-hot-product-2019-fully-automatic-304-stainless-steel-for-sale-price-62357808633.html?spm=a2700.galleryofferlist.normal_offer.d_title.4dab23480cDvhC"> Prototipo_1<a\>
